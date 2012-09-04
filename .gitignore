@@ -1,2 +1,4 @@
 
 FamiSecDjango/FamiSecDjango/db/famisec.db
+
+*.pyc
